@@ -34,7 +34,7 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     --window-name: "Vibrant Glass";
     /*
     color of the Discord window name
-    default : rgb(255, 255, 255) */
+    default : rgb(45, 14, 201) */
     --window-name-color: rgb(255, 255, 255);
     /*
     opacity, but lighter
